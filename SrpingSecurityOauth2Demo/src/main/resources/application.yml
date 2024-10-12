@@ -1,0 +1,12 @@
+
+
+spring:
+  application:
+    name: SrpingSecurityOauth2Demo
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23limH70op77JemgUb
+            client-secret: 344888b58235c0197c6f1694e0ec2cef38d4ba2a
